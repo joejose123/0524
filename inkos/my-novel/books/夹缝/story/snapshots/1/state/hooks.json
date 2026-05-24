@@ -1,0 +1,104 @@
+{
+  "hooks": [
+    {
+      "hookId": "H001",
+      "startChapter": 0,
+      "type": "后台/身世",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "父亲灭门当晚有人故意放裴渡母子一条生路，此人身份与动机",
+      "payoffTiming": "slow-burn",
+      "notes": "骨笛是父亲身份的唯一物证，裴渡不愿谈但本能攥紧"
+    },
+    {
+      "hookId": "H002",
+      "startChapter": 0,
+      "type": "后台/身世",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "母亲逃亡时与并州家族达成的交易条件是什么",
+      "payoffTiming": "slow-burn",
+      "notes": "裴渡提到“欠你们汉人一条命”，暗示母亲曾受过汉人恩惠"
+    },
+    {
+      "hookId": "H003",
+      "startChapter": 0,
+      "type": "前台/生存",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "并州债主限期将至，母亲病重需要续命的钱从哪来",
+      "payoffTiming": "near-term",
+      "notes": "裴渡仍在并州以外奔波，母亲的状况悬而未决"
+    },
+    {
+      "hookId": "H004",
+      "startChapter": 0,
+      "type": "前台/敌我",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "胡商贩在裴渡屋外土墙上划记号，此人是谁，为何盯上裴渡",
+      "payoffTiming": "near-term",
+      "notes": "裴渡离开并州，此线索暂时搁置"
+    },
+    {
+      "hookId": "H005",
+      "startChapter": 1,
+      "type": "前台/情报",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "加密手书的另一个被涂掉的收件人是谁",
+      "payoffTiming": "mid-arc",
+      "notes": "来自pending_hooks，本章未涉及"
+    },
+    {
+      "hookId": "H006",
+      "startChapter": 2,
+      "type": "前台/叛徒",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "出卖裴渡藏身处的人只有三个知情者，其中一人不可疑",
+      "payoffTiming": "mid-arc",
+      "notes": "来自pending_hooks，本章未涉及"
+    },
+    {
+      "hookId": "H007",
+      "startChapter": 3,
+      "type": "后台/操控",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "裴渡的“夹缝”状态被某些人刻意维持，便于操控",
+      "payoffTiming": "mid-arc",
+      "notes": "来自pending_hooks，本章未涉及"
+    },
+    {
+      "hookId": "H008",
+      "startChapter": 4,
+      "type": "前台/感情",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "永嘉之乱爆发前裴渡被三方围堵，活路不在任何一方",
+      "payoffTiming": "near-term",
+      "notes": "来自pending_hooks，本章未涉及"
+    },
+    {
+      "hookId": "H009",
+      "startChapter": 1,
+      "type": "前台/身世",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "骨笛的完整来历、它与裴渡父亲灭门当晚的关系",
+      "payoffTiming": "slow-burn",
+      "notes": "身份撕裂的物化符号，第一章亮出但不展开；裴渡不会跟外人讲，预计第3章独自吹笛时通过回忆展开"
+    },
+    {
+      "hookId": "H010",
+      "startChapter": 1,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "汉军与匈奴人勾结屠村的幕后主使、目的和规模",
+      "payoffTiming": "mid-arc",
+      "notes": "这是章节结尾的信息炸弹；裴渡此刻无暇追问，但已注意到军靴细节，预计第4-5章因另一条线索发现两拨人用同样军械，推进悬疑"
+    }
+  ]
+}

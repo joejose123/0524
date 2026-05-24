@@ -1,0 +1,114 @@
+{
+  "hooks": [
+    {
+      "hookId": "H001",
+      "startChapter": 4,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第9-10章裴渡进入城北或接触老羯人时掀",
+      "payoffTiming": "mid-arc",
+      "notes": "刘曜签印与屠村当晚老羯人的个人关联——本章仍defer，但新的钩子H028（贺兰浑）可能与H001共享上游：如果贺兰浑是刘曜的人，那么贺兰浑出现在骨赤真营区=刘曜势力渗透进了铁弗部后院。暂不合并，留到第9章确认贺兰浑身份时再判断。"
+    },
+    {
+      "hookId": "H010",
+      "startChapter": 4,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第9-10章裴渡尝试进入城北营区时进一步细分",
+      "payoffTiming": "mid-arc",
+      "notes": "从“二者明确分离有缝隙”推进至“亲眼确认铁弗部营区的物理存在和细节特征”。不resolve——空间已确认，人脸还没对上。"
+    },
+    {
+      "hookId": "H013",
+      "startChapter": 6,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第9-10章裴渡通过牙行渠道追踪老羯人时激活",
+      "payoffTiming": "near-term",
+      "notes": "乞里货源涉及羯人部落——本章未推进。留至第9章裴渡再找乞里时通过偏房马鞍或其他线索激活。"
+    },
+    {
+      "hookId": "H015",
+      "startChapter": 4,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第9-10章裴渡再探或进入城北后院时重大兑现",
+      "payoffTiming": "near-term",
+      "notes": "兑现程度大幅提高：从抽象线索→具体物理地点+内部声音/气味/人影/名字。与Ch8 Memo指定“听到贺兰浑名字”一致。旧H015-1（带回一人没死）已resolved，但新矛盾开新钩（见H028）。"
+    },
+    {
+      "hookId": "H016",
+      "startChapter": 5,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第9-10章与H025联合爆炸",
+      "payoffTiming": "mid-arc",
+      "notes": "三层叠加：守卒面孔→牙行木板→城北形迹（潜在目击）。裴渡在明面上没被发现，但暗处的眼睛在增加。第9章乞里可能收到“有人在城北附近看到过裴渡”的消息。"
+    },
+    {
+      "hookId": "H017",
+      "startChapter": 5,
+      "type": "前台/悬疑/能力",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第10-12章阿苓独自行动时激活",
+      "payoffTiming": "mid-arc",
+      "notes": "从“主动空间定位”推进至“已实战验证的夜间精准导航”。H026（阿苓记城北）实际兑现但钩子保留——因为空间定位能力在后续还会升级（独自行动/危机导航）。"
+    },
+    {
+      "hookId": "H025",
+      "startChapter": 7,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第9-10章与H016联合爆炸",
+      "payoffTiming": "near-term",
+      "notes": "牙行记名——本章defer。第9章裴渡再找乞里时可能触发：乞里收到营区查问或眼线消息。"
+    },
+    {
+      "hookId": "H026",
+      "startChapter": 7,
+      "type": "前台/悬疑/能力",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第10-12章阿苓独自行动时激活",
+      "payoffTiming": "mid-arc",
+      "notes": "钩子本身保留——命名改为“阿苓空间定位能力实战验证”，状态从open改为保留以备后续升级。"
+    },
+    {
+      "hookId": "H027",
+      "startChapter": 7,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第10-12章阿苓独自面对骨赤真或再见到同类绳结时掀",
+      "payoffTiming": "mid-arc",
+      "notes": "创伤记忆绳结——本章不动。阿苓在院外的感官收集效率很高（三道呼吸/皮子味/药味），说明他能暂时压下创伤触发进入工作状态，但压下去不等于消化了。第9章买药时裴渡可能观察阿苓的伤口处理态度作为侧写，但不正面点破。"
+    },
+    {
+      "hookId": "H028",
+      "startChapter": 8,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第9-10章裴渡再探后院或从牙行/其他渠道确认贺兰浑身份时爆炸",
+      "payoffTiming": "near-term",
+      "notes": "为斡耳朵悬疑加第二层：不止一个活人被关，且营区里存在裴渡过去有过交集的变量（贺兰浑/砂石嗓音）。这个钩子与H015、H001有潜在关联——如果贺兰浑是刘曜的人，H001（刘曜与老羯人个人关联）可以跟这条线合并；如果贺兰浑是裴渡过去通译生涯中的旧识（比如某个商队的羯人护卫、某个被他翻译过话的债主），则开启全新的过去线。本章不点破，留到第9章。"
+    },
+    {
+      "hookId": "H029",
+      "startChapter": 8,
+      "type": "前台/悬疑/能力",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第9-10章阿苓独自行动时激活（意外炸弹）",
+      "payoffTiming": "mid-arc",
+      "notes": "为阿苓独自行动提供物理路径。他已经在脑子里存好了这条备用通道的入口特征（焦黑木栅栏/地面不出声/通西墙根），当裴渡被困或需要第二条路时，阿苓会一个人走这条路。"
+    }
+  ]
+}

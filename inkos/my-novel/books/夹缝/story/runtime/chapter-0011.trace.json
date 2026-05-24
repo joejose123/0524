@@ -1,0 +1,46 @@
+{
+  "chapter": 11,
+  "plannerInputs": [
+    "D:\\driver\\data\\web\\0524\\inkos\\my-novel\\books\\夹缝\\story\\author_intent.md",
+    "D:\\driver\\data\\web\\0524\\inkos\\my-novel\\books\\夹缝\\story\\current_focus.md",
+    "D:\\driver\\data\\web\\0524\\inkos\\my-novel\\books\\夹缝\\story\\outline\\story_frame.md",
+    "D:\\driver\\data\\web\\0524\\inkos\\my-novel\\books\\夹缝\\story\\outline\\volume_map.md",
+    "D:\\driver\\data\\web\\0524\\inkos\\my-novel\\books\\夹缝\\story\\chapter_summaries.md",
+    "D:\\driver\\data\\web\\0524\\inkos\\my-novel\\books\\夹缝\\story\\book_rules.md",
+    "D:\\driver\\data\\web\\0524\\inkos\\my-novel\\books\\夹缝\\story\\current_state.md",
+    "D:\\driver\\data\\web\\0524\\inkos\\my-novel\\books\\夹缝\\story\\pending_hooks.md",
+    "D:\\driver\\data\\web\\0524\\inkos\\my-novel\\books\\夹缝\\story\\memory.db"
+  ],
+  "composerInputs": [
+    "D:\\driver\\data\\web\\0524\\inkos\\my-novel\\books\\夹缝\\story\\runtime\\chapter-0011.intent.md"
+  ],
+  "selectedSources": [
+    "runtime/chapter_memo",
+    "story/current_focus.md",
+    "story/current_state.md",
+    "story/outline/story_frame.md",
+    "story/outline/volume_map.md",
+    "story/chapter_summaries.md#recent_titles",
+    "story/chapter_summaries.md#recent_mood_type_trail",
+    "story/chapters#recent_endings",
+    "runtime/hook_debt#hook-1",
+    "runtime/hook_debt#hook-2",
+    "runtime/hook_debt#hook-5",
+    "runtime/hook_debt#hook-6",
+    "story/current_state.md#当前冲突",
+    "story/current_state.md#当前目标",
+    "story/current_state.md#主角状态",
+    "story/current_state.md#当前限制",
+    "story/chapter_summaries.md#8",
+    "story/chapter_summaries.md#9",
+    "story/pending_hooks.md#hook-1",
+    "story/pending_hooks.md#hook-2",
+    "story/pending_hooks.md#hook-3",
+    "story/pending_hooks.md#hook-4",
+    "story/pending_hooks.md#hook-5",
+    "story/pending_hooks.md#hook-6",
+    "story/pending_hooks.md#hook-7",
+    "story/pending_hooks.md#hook-8"
+  ],
+  "notes": []
+}

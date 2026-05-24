@@ -1,0 +1,35 @@
+{
+  "chapter": 1,
+  "plannerInputs": [
+    "D:\\driver\\data\\web\\0524\\inkos\\my-novel\\books\\夹缝\\story\\author_intent.md",
+    "D:\\driver\\data\\web\\0524\\inkos\\my-novel\\books\\夹缝\\story\\current_focus.md",
+    "D:\\driver\\data\\web\\0524\\inkos\\my-novel\\books\\夹缝\\story\\outline\\story_frame.md",
+    "D:\\driver\\data\\web\\0524\\inkos\\my-novel\\books\\夹缝\\story\\outline\\volume_map.md",
+    "D:\\driver\\data\\web\\0524\\inkos\\my-novel\\books\\夹缝\\story\\chapter_summaries.md",
+    "D:\\driver\\data\\web\\0524\\inkos\\my-novel\\books\\夹缝\\story\\book_rules.md",
+    "D:\\driver\\data\\web\\0524\\inkos\\my-novel\\books\\夹缝\\story\\current_state.md",
+    "D:\\driver\\data\\web\\0524\\inkos\\my-novel\\books\\夹缝\\story\\pending_hooks.md",
+    "D:\\driver\\data\\web\\0524\\inkos\\my-novel\\books\\夹缝\\story\\memory.db"
+  ],
+  "composerInputs": [
+    "D:\\driver\\data\\web\\0524\\inkos\\my-novel\\books\\夹缝\\story\\runtime\\chapter-0001.intent.md"
+  ],
+  "selectedSources": [
+    "runtime/chapter_memo",
+    "story/current_focus.md",
+    "story/current_state.md",
+    "story/outline/story_frame.md",
+    "story/outline/volume_map.md",
+    "runtime/hook_debt#H001",
+    "runtime/hook_debt#H002",
+    "story/pending_hooks.md#H008",
+    "story/pending_hooks.md#H007",
+    "story/pending_hooks.md#H006",
+    "story/pending_hooks.md#H005",
+    "story/pending_hooks.md#H001",
+    "story/pending_hooks.md#H002",
+    "story/pending_hooks.md#H003",
+    "story/pending_hooks.md#H004"
+  ],
+  "notes": []
+}

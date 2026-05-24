@@ -1,0 +1,110 @@
+{
+  "hooks": [
+    {
+      "hookId": "hook-2",
+      "startChapter": 0,
+      "type": "前台/悬疑/能力",
+      "status": "resolved",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "已完成闭环",
+      "notes": "窄巷路径从Ch8发现→Ch10首次实战→Ch11二次实战→Ch12三次实战，四条标准：安全冗余/空间稳定性/时间可控性/无外部干扰，全部满足→闭环。后续可直接作为精算系统常驻变量调用"
+    },
+    {
+      "hookId": "hook-5",
+      "startChapter": 0,
+      "type": "前台/悬疑/行动",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第12-13章裴渡决定是否钻暗沟时推进",
+      "notes": "暗沟作为唯一未被污染路径→裴渡已做方向断言“下一个落子处”，第12章结尾校准接活前再走西墙根，第13章可能触发暗沟入口实测"
+    },
+    {
+      "hookId": "hook-6",
+      "startChapter": 0,
+      "type": "前台/关系",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第13-14章进营区时完成闭环",
+      "notes": "阿苓独立执行值已累积三次实战数据：Ch11西墙根后门观察→Ch12窄巷常驻路径确认→Ch12后堂墙根听觉情报采集。下次调用可直接分配中等风险侦察任务，闭环在进营区场景"
+    },
+    {
+      "hookId": "hook-12",
+      "startChapter": 12,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第13-15章——裴渡后续在牙行/营区/城北场景中比对核实此人名",
+      "payoffTiming": "mid-arc",
+      "notes": "新人物实体进入叙事盘面——此人在后堂与“城北”事务直接关联，可能与竹筐替换指令来源或药铺内鬼联络人身份相关。阿苓所写三字模糊，裴渡需后续比对确认"
+    },
+    {
+      "hookId": "hook-13",
+      "startChapter": 12,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第13-15章——裴渡进营区后或再次接触药铺/乞里时，通过交叉比对确认清扫行为来源",
+      "payoffTiming": "mid-arc",
+      "notes": "竹筐替换确证是第一项确认的物资链外围清扫实证，但执行者身份仍为推断。若执行者是后堂内鬼→清扫有内外两层协作；若执行者是铁弗部→药铺已被外部控制。两种可能的风险等级不同"
+    },
+    {
+      "hookId": "hook-9",
+      "startChapter": 11,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第12-13章物资链终端或进营区时点破",
+      "payoffTiming": "mid-arc",
+      "notes": "棚屋碾药人身份问号与竹筐替换之间出现可能的因果链——若物资链外围被清扫，棚屋（第二落点）是否已被清扫？裴渡需后续确认棚屋碾药人是否仍在原处"
+    },
+    {
+      "hookId": "hook-1",
+      "startChapter": 0,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第12-13章进营区/正面接触用药者身份时揭终端",
+      "notes": "竹筐替换清扫行为意味着进营区环境已变——终端用药者对面的人的警觉度已升级。进营区时机从“尽快完成外围确认后进入”变为“在外围清扫后谨慎选择进入时机”→可能延迟至第14章"
+    },
+    {
+      "hookId": "hook-10",
+      "startChapter": 11,
+      "type": "前台/悬疑/行动",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第12-13章裴渡决定是否钻暗沟时推进",
+      "payoffTiming": "mid-arc",
+      "notes": "暗沟仍是高盲区选项，第12章只做方向断言未做行动决定，推进点在第13章西墙根二次验证"
+    },
+    {
+      "hookId": "hook-11",
+      "startChapter": 11,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第14-15章贺兰浑个人线展开时回收",
+      "payoffTiming": "mid-arc",
+      "notes": "保持不动"
+    },
+    {
+      "hookId": "hook-3",
+      "startChapter": 0,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "裴渡下次找乞里/接活时由守卒流民口传入触发",
+      "payoffTiming": "immediate",
+      "notes": "后天接活场景在第13章，可能触发"
+    },
+    {
+      "hookId": "hook-4",
+      "startChapter": 0,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第14-15章裴渡与贺兰浑首次正面遭遇",
+      "payoffTiming": "mid-arc",
+      "notes": "保持不动"
+    }
+  ]
+}

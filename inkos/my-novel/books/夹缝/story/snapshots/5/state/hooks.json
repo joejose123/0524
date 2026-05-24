@@ -1,0 +1,133 @@
+{
+  "hooks": [
+    {
+      "hookId": "H014",
+      "startChapter": 4,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "近期",
+      "payoffTiming": "near-term",
+      "notes": "H010/H011相关：告示签印与\"阿干\"老羯人可能属于同一部落网络——本章将两者从\"空间重合\"推进到\"网络关联\"的认知层面"
+    },
+    {
+      "hookId": "H012",
+      "startChapter": 3,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "近期",
+      "payoffTiming": "near-term",
+      "notes": "本章兑现一半：盘查规矩和城内景象已展现；牙行和裴渡能否接到活留到第6章"
+    },
+    {
+      "hookId": "S001",
+      "startChapter": 1,
+      "type": "支线/关系",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "待定",
+      "notes": "支线\"裴渡与阿苓的被迫绑定\"从advanced推进至advanced+：两人的配合从\"信息共担\"升级为\"生死配合\"——阿苓在压力下证明自己不拖后腿，裴渡在守卒眼皮下亮牌确保两人存活。阿苓对裴渡的评估从\"这人能拼\"推进至\"这人能亮牌\"；裴渡对阿苓的评估从\"进城雷\"推进至\"不拖后腿的雷\"（戒心未完全解除但信任增加）"
+    },
+    {
+      "hookId": "H011",
+      "startChapter": 2,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "近期",
+      "payoffTiming": "near-term",
+      "notes": "留到第7-8章在安全环境下触发——城门口守卒与刘曜势力的关系刚确认，裴渡脑子里把两张拼图（告示签印+羯人守卒切口）并置了一秒但选择压住"
+    },
+    {
+      "hookId": "H015",
+      "startChapter": 4,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "中期",
+      "payoffTiming": "mid-arc",
+      "notes": "留到第6章两人找到落脚处后、环境相对安全时再提"
+    },
+    {
+      "hookId": "H003",
+      "startChapter": 2,
+      "type": "前台/生存",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "近期",
+      "payoffTiming": "near-term",
+      "notes": "第6章裴渡找到牙行或接第一单活时正式算账——届时127文的基数与新的收入/支出将重新校准倒计时数字"
+    },
+    {
+      "hookId": "H013",
+      "startChapter": 3,
+      "type": "后台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "中期",
+      "payoffTiming": "mid-arc",
+      "notes": "本章defer"
+    },
+    {
+      "hookId": "H010",
+      "startChapter": 1,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "中期",
+      "payoffTiming": "mid-arc",
+      "notes": "H010的完整回收需要H011+H015的共同推进"
+    },
+    {
+      "hookId": "H016",
+      "startChapter": 5,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "近期",
+      "payoffTiming": "near-term",
+      "notes": "为第6-7章牙行找上裴渡或驻军盘问埋钩：守卒记住\"城门口有个会说匈奴话的汉人\"这个信息，将成为裴渡在并州城内潜在的雷"
+    },
+    {
+      "hookId": "H017",
+      "startChapter": 5,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "中期",
+      "payoffTiming": "mid-arc",
+      "notes": "为第8章后阿苓认出其他刘曜势力标记埋伏笔：阿苓的\"不识字但记形\"能力将成为后续剧情中阿苓独自辨认刘曜势力标记的关键"
+    },
+    {
+      "hookId": "H008",
+      "startChapter": 4,
+      "type": "前台/感情",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "近期",
+      "payoffTiming": "near-term",
+      "notes": "本章未推进"
+    },
+    {
+      "hookId": "H007",
+      "startChapter": 3,
+      "type": "后台/操控",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "中期",
+      "payoffTiming": "mid-arc",
+      "notes": "本章未推进"
+    },
+    {
+      "hookId": "H006",
+      "startChapter": 2,
+      "type": "前台/叛徒",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "中期",
+      "payoffTiming": "mid-arc",
+      "notes": "本章未推进"
+    }
+  ]
+}

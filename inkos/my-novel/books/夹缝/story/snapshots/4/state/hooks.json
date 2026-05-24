@@ -1,0 +1,124 @@
+{
+  "hooks": [
+    {
+      "hookId": "H011",
+      "startChapter": 2,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "中期",
+      "payoffTiming": "mid-arc",
+      "notes": "本章完成计划推进：阿苓首次完整交代场景、裴渡给出初步语言学判断；同时开出\"斡耳朵\"子线索及\"裴渡是否认识说话者\"的悬念。"
+    },
+    {
+      "hookId": "H010",
+      "startChapter": 1,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "中期",
+      "payoffTiming": "mid-arc",
+      "notes": "从advanced推进至advanced+：屠村三方势力的具体人种/语言特征已部分锁定，且与并州城门口告示上的势力形成空间上的重合暗示。"
+    },
+    {
+      "hookId": "H014",
+      "startChapter": 4,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "近期",
+      "payoffTiming": "near-term",
+      "notes": "新开：城门告示上的签印——裴渡知道这个人/部落的来路，但现在不点破。将在第5-6章对裴渡构成直接威胁。与H010/H011存在因果关联：告示上的势力可能与屠村当晚的\"阿干\"说话者属于同一网络。"
+    },
+    {
+      "hookId": "H015",
+      "startChapter": 4,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "中期",
+      "payoffTiming": "mid-arc",
+      "notes": "新开：H011延伸出的第二层悬疑。\"斡耳朵\"暗示屠村当晚的搜索目标可能与行帐内眷区有关——搜的不是普通村民，是某个特定的人或物。裴渡判断此时告诉阿苓会让他更慌，先压住。"
+    },
+    {
+      "hookId": "H012",
+      "startChapter": 3,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "近期",
+      "payoffTiming": "near-term",
+      "notes": "本章从路人口中给一半信息、在城门景象给一半——并为H012的自然推进铺路。具体态势面纱在第5章进城后揭开。"
+    },
+    {
+      "hookId": "H003",
+      "startChapter": 2,
+      "type": "前台/生存",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "近期",
+      "payoffTiming": "near-term",
+      "notes": "本章defer：不推进具体数字，理由如ch memo所述——裴渡在确认并州局势前不算新账。但买饼消耗4文这一事实已记录，为第5章算账提供更新的基数。"
+    },
+    {
+      "hookId": "H008",
+      "startChapter": 4,
+      "type": "前台/感情",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "近期",
+      "payoffTiming": "near-term",
+      "notes": "来自pending_hooks，本章未推进"
+    },
+    {
+      "hookId": "H007",
+      "startChapter": 3,
+      "type": "后台/操控",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "中期",
+      "payoffTiming": "mid-arc",
+      "notes": "来自pending_hooks，本章未推进"
+    },
+    {
+      "hookId": "H013",
+      "startChapter": 3,
+      "type": "后台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "中期",
+      "payoffTiming": "mid-arc",
+      "notes": "本章defer"
+    },
+    {
+      "hookId": "H006",
+      "startChapter": 2,
+      "type": "前台/叛徒",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "中期",
+      "payoffTiming": "mid-arc",
+      "notes": "本章未推进"
+    },
+    {
+      "hookId": "H005",
+      "startChapter": 1,
+      "type": "前台/情报",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "中期",
+      "payoffTiming": "mid-arc",
+      "notes": "本章未推进"
+    },
+    {
+      "hookId": "H009",
+      "startChapter": 1,
+      "type": "前台/身世",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "慢烧",
+      "payoffTiming": "slow-burn",
+      "notes": "本章defer"
+    }
+  ]
+}

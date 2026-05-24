@@ -1,0 +1,135 @@
+{
+  "chapter": 3,
+  "selectedContext": [
+    {
+      "source": "runtime/chapter_memo",
+      "reason": "Carry the planner's chapter memo into governed writing.",
+      "excerpt": "goal=裴渡被母亲债务逼出具体还钱期限，决定带上阿苓往并州方向找活路 | golden-opening=true | ## 当前任务\n裴渡需要算清母亲欠王氏钱庄的债还剩多少、加息后每月要还多少，然后在阿苓面前第一次说出接下来的方向——去并州。\n\n## 读者此刻在等什么\n1. 读者知道裴渡的母亲被加息四成逼债、屠村有至少三方势力、阿苓提供了\"阿干\"线索——现在等着看这三个信息怎么交汇，裴渡会先处理哪一个。\n2. 本章对\"并州债务\"给出具体数字和期限，把生存压力从模糊焦虑钉成可触摸的倒计时；对\"阿干\"线索不做推进，先压住，让读者知道裴渡记在心里了但眼前有更急的事——制造\"还没处理但快处理\"的缺口。\n\n## 该兑现的 / 暂不掀的\n- 该兑现：H003（母亲债务）→ 兑现到具体数字和还款期限，裴渡意识到这笔钱靠零散通译活计凑不齐\n- 暂不掀：H010（屠村三方势力真相）、H011（\"阿干\"具体含义）→ 先压住，留到第5-7章裴渡在并州接触到羯人或匈奴人时再掀\n\n## 日常/过渡承担什么任务\n- [开篇路上段落] → 展示裴渡边走边算账的过程：铜钱数、母亲欠款加息后的月息、从商队头领嘴里套出的并州方向可能的活计——用\"算账\"这个动作把第二章拿到的信息压缩成具体数字，同时让阿苓在旁边观察裴渡算账时的表情变化（阿苓视角：这个人算钱的时候手指在抖，嘴上还在扯闲篇）\n- [裴渡对阿苓说出\"去并州\"的段落] → 这是本章圆心事件。裴渡的决定从自己利益出发（还债），但说出口的同时等于对阿苓做出最低限度的承诺——\"我暂时不会丢下你\"。阿苓从这个决定里读到的是：这个人明明可以自己跑更快，但他选择带上一个伤还没好的累赘。两个人的解读不同，但行动落在一处\n- [章尾找投宿处段落] → 用投宿环境描写五感（柴火味、远处狗叫、破庙/废弃土屋的视觉细节），让读者在高压信息后喘半口气，同时为第4章可能的新冲突埋地点锚点\n\n## 关键抉择过三连问\n- 裴渡本章最关键的一次选择：决定往并州方向走，而不是往南边跑\n  - 为什么这么做？因为母亲还在并州，债主在并州，他对并州地形和商路更熟；南边是陌生区域，带着伤员跑更危险\n  - 符合当前利益吗？符合。去并州可能接到通译活计，也能直接面对债务问题而不是躲\n  - 符合他的人设吗？符合。裴渡不会丢下母亲不管（这是他仅剩的归属锚点），但他也不会热血上头冲回去救——他是回去找活干、还债，用行动拖延危机\n- 阿苓本章最关键的一次选择：不追问裴渡关于\"阿干\"的事，默许跟他去并州\n  - 为什么这么做？阿苓判断现在追问没用——裴渡自己也不知道答案，而且他在算钱时手指在抖，说明他眼前有更要命的事；跟一个正在算账的人打听屠村细节，得到的只可能是敷衍\n  - 符合当前利益吗？符合。阿苓伤没好，一个人走不了；跟着裴渡是目前唯一活路\n  - 符合他的人设吗？符合。阿苓不是依赖型，是观察型——第2章他观察了裴渡一天才决定开口说\"阿干\"，这一章他会继续观察\n\n## 章尾必须发生的改变\n- 信息改变：裴渡把自己和母亲欠债的具体数目、每月利息、还款期限算清楚——从\"模糊知道有债\"变成\"知道倒计时还剩多久\"\n- 关系改变：裴渡对阿苓说出\"跟我去并州\"，两人从\"荒路上被迫同路\"变成\"裴渡主动选择带上阿苓继续走\"，阿苓对此的回应保持克制——不说谢谢，只说\"知道了\"\n- 物理改变：两人改变行进方向，从原路转向通往并州方向的岔路，并找到一个临时投宿点（破庙/废弃土屋/流民聚集的临时棚区）\n\n## 本章 hook 账\n\nopen:\n- [new] H012：并州乱到什么程度——商队头领只说了\"胡人扰乱\"和王氏钱庄加息，但具体是哪几支胡人、朝廷有没有出兵、城门还开不开，裴渡不知道，他必须靠近了才能打听 || 理由：第3章讲并州债务，自然引出并州局势悬念，但裴渡眼前先算账找活，不会在本章深挖\n- [new] H013：王氏钱庄不是普通债主——加息四成这个动作暗示钱庄背后有人逼它回笼资金，或者是针对裴渡母亲的定向施压 || 理由：跟H003形成因果链（H003兑现→引出H013），但第3章裴渡还在消化数字，没空怀疑债主动机，留到并州落地后展开\n\nadvance:\n- H003 \"母亲债务\" → 从\"得知加息四成\"推进到\"裴渡在心里算出具体欠款数字和每月利息，意识到零散通译活计根本凑不齐\"（pressured → pressured+）\n- S001 \"裴渡与阿苓的绑定\" → 从\"被迫同路\"推进到\"裴渡主动选择带上阿苓去并州，阿苓用'知道了'回应，不表露情绪但记住了这个决定\"（open → advance）\n\nresolve:\n- 无\n\ndefer:\n- H009 \"骨笛\" → 本章不动，理由：裴渡脑子里被债务数字占满，骨笛不是他优先处理的事；等到情绪缓和或遇到触发物时自然浮现\n- H010 \"屠村三方势力\" → 本章不动，理由：裴渡眼前有更要命的债务倒计时，阿苓也选择暂时不追问；但通过阿苓在章尾的眼神（他还在想这件事）给读者留一个锚点\n- H011 \"阿干\" → 本章不动，理由同H010\n\n## 不要做\n- 不要让阿苓在章尾对裴渡说谢谢或表露依赖——阿苓的回应只能是\"知道了\"，情绪留白\n- 不要让裴渡突然热血上头说要查清屠村真相——他现在满脑子是母亲的债，屠村的事他只是记住了，不是忘了，但优先级在生存之后\n- 本章不要引入新人物——保持裴渡和阿苓两人的独角戏，场景限在两个：路上算账、投宿点落脚\n- 不要在投宿点制造新冲突——第3章结尾是情绪沉下来的时刻，不是再起波澜的时刻，让读者带着\"倒计时开始了\"的感觉进入第4章"
+    },
+    {
+      "source": "story/current_focus.md",
+      "reason": "Current task focus for this chapter.",
+      "excerpt": "（描述接下来 1-3 章最需要优先推进的内容。）"
+    },
+    {
+      "source": "story/audit_drift.md",
+      "reason": "Carry forward audit drift guidance from the previous chapter without polluting hard state facts.",
+      "excerpt": "> 第2章审计发现以下问题，下一章写作时必须避免："
+    },
+    {
+      "source": "story/current_state.md",
+      "reason": "Preserve hard state facts referenced by the active chapter brief or hard constraints.",
+      "excerpt": "| 字段 | 值 |"
+    },
+    {
+      "source": "story/outline/story_frame.md",
+      "reason": "Preserve canon constraints referenced by the active chapter brief or hard constraints.",
+      "excerpt": "---"
+    },
+    {
+      "source": "story/outline/volume_map.md",
+      "reason": "Anchor the default planning node for this chapter.",
+      "excerpt": "全书五卷，每卷约六章，总计三十章。"
+    },
+    {
+      "source": "story/chapter_summaries.md#recent_titles",
+      "reason": "Keep recent title history visible to avoid repetitive chapter naming.",
+      "excerpt": "2: 荒路上的买卖 | 1: 渡口"
+    },
+    {
+      "source": "story/chapter_summaries.md#recent_mood_type_trail",
+      "reason": "Keep recent mood and chapter-type cadence visible before writing the next chapter.",
+      "excerpt": "2: 紧张（对峙与斡旋）→短暂缓和（交易完成、拿到钱）→重新绷紧（得知债主加息、屠村谜团扩大）；裴渡表面油滑、内心警觉，阿苓戒心松动但保持冷静观察 / 能力展示/推进章 | 1: 压抑、灰冷、紧绷，夹缝生存的无奈与微弱的底线坚守 / 开篇/建置章"
+    },
+    {
+      "source": "story/chapters#recent_endings",
+      "reason": "Show how recent chapters ended so the writer avoids structural repetition (e.g. 3 consecutive collapse endings).",
+      "excerpt": "ch1: 裴渡架起少年，少年踉跄跟着。过土墙时，少年停住，盯暗痕：“先来的是汉人官兵。后半夜又来了匈奴骑兵。我躲在谷仓听见，... | ch2: 阿苓接过饼，咬了一口，眼睛还看着他。不是看救命恩人的眼神。但至少，不是看陌路人的眼神了。"
+    },
+    {
+      "source": "runtime/hook_debt#H003",
+      "reason": "含原始种子文本的叙事债务简报。",
+      "excerpt": "H003（前台/生存，备忘引用旧债，已开2章） | 读者承诺：待定 | 种于第0章：ch2 荒路上的买卖 - 裴渡架着受伤的阿苓在荒路上赶路，自嘲生存压力；听到前方争执声，发现一支并州商队与四名铁弗部羯人溃兵对峙；裴渡以通译能力斡旋，用匈奴话对羯人讲铁弗部败退后不宜再惹官兵，用汉话对商队头领说已谎称他们是官商以吓退溃兵；两边谈妥，羯人只拿走盐袋，商队保全人命和骡子；裴渡向商队头领索要酬劳，先得60文，后用官商身份的威胁多要20文和钱袋，共得80铜钱；从商队头领口中得知并州城被胡人扰乱、王氏钱庄加息四成收债的消息；阿苓告知裴渡屠村当晚有第三种语言（羯语词：“阿干”），裴渡意识到屠村至少有三方势力在场"
+    },
+    {
+      "source": "runtime/hook_debt#H010",
+      "reason": "含原始种子文本的叙事债务简报。",
+      "excerpt": "H010（前台/悬疑，备忘引用旧债，已开2章） | 读者承诺：汉军与匈奴人（及羯人）勾结屠村的幕后主使、目的和规模 | 种于第1章：ch1 渡口 - 裴渡接下一单通译活计，护送货物过黄河渡口；途中遇羯人商队，展示通译技能赚取铜钱；抵达土塬发现村子被屠，在谷仓发现受伤汉人少年阿苓；匈奴骑兵回村巡查，裴渡以通译身份掩护阿苓脱险；从阿苓口中得知屠村由汉军和匈奴骑兵先后所为 | 推进于第0章：ch2 荒路上的买卖 - 裴渡架着受伤的阿苓在荒路上赶路，自嘲生存压力；听到前方争执声，发现一支并州商队与四名铁弗部羯人溃兵对峙；裴渡以通译能力斡旋，用匈奴话对羯人讲铁弗部败退后不宜再惹官兵，用汉话对商队头领说已谎称他们是官商以吓退溃兵；两边谈妥，羯人只拿走盐袋，商队保全人命和骡子；裴渡向商队头领索要酬劳，先得60文，后用官商身份的威胁多要20文和钱袋，共得80铜钱；从商队头领口中得知并州城被胡人扰乱、王氏钱庄加息四成收债的消息；阿苓告知裴渡屠村当晚有第三种语言（羯语词：“阿干”），裴渡意识到屠村至少有三方势力在场"
+    },
+    {
+      "source": "runtime/hook_debt#H011",
+      "reason": "含原始种子文本的叙事债务简报。",
+      "excerpt": "H011（前台/悬疑，备忘引用旧债，已开1章） | 读者承诺：“阿干”这个称呼在屠村背景下的具体含义、说话者身份及其与匈奴/汉军的关系 | 种于第2章：ch2 荒路上的买卖 - 裴渡架着受伤的阿苓在荒路上赶路，自嘲生存压力；听到前方争执声，发现一支并州商队与四名铁弗部羯人溃兵对峙；裴渡以通译能力斡旋，用匈奴话对羯人讲铁弗部败退后不宜再惹官兵，用汉话对商队头领说已谎称他们是官商以吓退溃兵；两边谈妥，羯人只拿走盐袋，商队保全人命和骡子；裴渡向商队头领索要酬劳，先得60文，后用官商身份的威胁多要20文和钱袋，共得80铜钱；从商队头领口中得知并州城被胡人扰乱、王氏钱庄加息四成收债的消息；阿苓告知裴渡屠村当晚有第三种语言（羯语词：“阿干”），裴渡意识到屠村至少有三方势力在场"
+    },
+    {
+      "source": "story/current_state.md#当前冲突",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前冲突 | 生存冲突：在乱世中照顾伤员、躲避乱兵、攒钱救母；身份冲突：汉匈混血身份迫使他在两方或多方势力间游走；悬疑冲突：屠村事件涉及至少三方势力（汉军、匈奴、羯人），真相更加模糊和危险；时间压力：母亲的债务因加息而加剧"
+    },
+    {
+      "source": "story/current_state.md#当前目标",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前目标 | 带受伤的阿苓赶往最近的镇子（约两个时辰路程）；设法在保命的同时继续攒钱以应对并州母亲的药费和加码的债务"
+    },
+    {
+      "source": "story/current_state.md#主角状态",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "主角状态 | 裴渡：体力持续消耗（架阿苓徒步两个时辰），心理上再次受到冲击（得知王氏钱庄催债加码、屠村涉及第三方势力），无外伤；成功通过通译斡旋赚取80枚铜钱（加上原有65枚，身上共有约145枚铜钱，附赠一个钱袋）；母亲药钱仍差约400铜钱，且得知债主（王氏钱庄）已开始加紧收债并加息四成；得知屠村当晚有羯人在场（阿苓提供情报：\"阿干\"）"
+    },
+    {
+      "source": "story/current_state.md#当前限制",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前限制 | 带着受伤且仍虚弱、对自己仅有初步信任的阿苓，行动速度受限；匈奴骑兵仍在附近巡查；虽有一定铜钱但仍远不够偿还债务（本金+加息四成）；屠村事件背后势力越来越复杂（至少三方：汉军、匈奴、羯人），知道的越多处境越危险；汉匈混血身份在胡汉矛盾中持续带来两难"
+    },
+    {
+      "source": "story/chapter_summaries.md#1",
+      "reason": "Relevant episodic memory retrieved for the current chapter goal.",
+      "excerpt": "渡口 | 裴渡接下一单通译活计，护送货物过黄河渡口；途中遇羯人商队，展示通译技能赚取铜钱；抵达土塬发现村子被屠，在谷仓发现受伤汉人少年阿苓；匈奴骑兵回村巡查，裴渡以通译身份掩护阿苓脱险；从阿苓口中得知屠村由汉军和匈奴骑兵先后所为 | 裴渡：通译任务泡汤（货主跑路），兜里仅有65枚铜钱，身无分文；身边多了一个受伤的汉人少年阿苓（被迫绑定）；心理上再次面对父亲被杀的创伤记忆 | 新开H009（骨笛身世）；新开H010（屠村谜团：汉军与匈奴勾结）；H001轻微推进（父亲帐篷被烧的闪回）"
+    },
+    {
+      "source": "story/chapter_summaries.md#2",
+      "reason": "Relevant episodic memory retrieved for the current chapter goal.",
+      "excerpt": "荒路上的买卖 | 裴渡架着受伤的阿苓在荒路上赶路，自嘲生存压力；听到前方争执声，发现一支并州商队与四名铁弗部羯人溃兵对峙；裴渡以通译能力斡旋，用匈奴话对羯人讲铁弗部败退后不宜再惹官兵，用汉话对商队头领说已谎称他们是官商以吓退溃兵；两边谈妥，羯人只拿走盐袋，商队保全人命和骡子；裴渡向商队头领索要酬劳，先得60文，后用官商身份的威胁多要20文和钱袋，共得80铜钱；从商队头领口中得知并州城被胡人扰乱、王氏钱庄加息四成收债的消息；阿苓告知裴渡屠村当晚有第三种语言（羯语词：“阿干”），裴渡意识到屠村至少有三方势力在场 | 裴渡：铜钱从65增至约145枚；得知母亲债务承压（加息四成），生存紧迫感加剧；得知屠村谜团升级为至少三方势力；成功展示通译能力并获利。阿苓：从沉默的依附者变为主动提供情报的观察者，戒心初步松动（看到裴渡藏他的犹豫、分饼的举动，决定说出“阿干”） | H003从open推进至advanced（得知债主加息催债）；H010从open推进至advanced（屠村谜团扩展为三方势力）；新开H011（“阿干”一词的悬疑）；H009未涉及"
+    },
+    {
+      "source": "story/pending_hooks.md#H008",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "前台/感情 | open | 永嘉之乱爆发前裴渡被三方围堵，活路不在任何一方 | near-term | 来自pending_hooks，本章未涉及"
+    },
+    {
+      "source": "story/pending_hooks.md#H007",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "后台/操控 | open | 裴渡的“夹缝”状态被某些人刻意维持，便于操控 | mid-arc | 来自pending_hooks，本章未涉及"
+    },
+    {
+      "source": "story/pending_hooks.md#H006",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "前台/叛徒 | open | 出卖裴渡藏身处的人只有三个知情者，其中一人不可疑 | mid-arc | 来自pending_hooks，本章未涉及"
+    },
+    {
+      "source": "story/pending_hooks.md#H011",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "前台/悬疑 | open | “阿干”这个称呼在屠村背景下的具体含义、说话者身份及其与匈奴/汉军的关系 | mid-arc | 新开伏笔，为屠村谜团增加新的调查方向"
+    },
+    {
+      "source": "story/pending_hooks.md#H005",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "前台/情报 | open | 加密手书的另一个被涂掉的收件人是谁 | mid-arc | 来自pending_hooks，本章未涉及"
+    },
+    {
+      "source": "story/pending_hooks.md#H009",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "前台/身世 | open | 骨笛的完整来历、它与裴渡父亲灭门当晚的关系 | slow-burn | 身份撕裂的物化符号，正文未提及，顺延至后续章节展开"
+    },
+    {
+      "source": "story/pending_hooks.md#H010",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "前台/悬疑 | open | 汉军与匈奴人（及羯人）勾结屠村的幕后主使、目的和规模 | mid-arc | 悬疑升级，裴渡此刻无暇追查，后续需其他线索交叉验证（如H011）"
+    },
+    {
+      "source": "story/pending_hooks.md#H001",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "后台/身世 | open | 父亲灭门当晚有人故意放裴渡母子一条生路，此人身份与动机 | slow-burn | 骨笛是父亲身份的唯一物证，本章未涉及"
+    }
+  ]
+}

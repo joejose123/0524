@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "language": "zh",
+  "lastAppliedChapter": 1,
+  "projectionVersion": 1,
+  "migrationWarnings": [
+    "H001:status normalized from \"待触发\" to \"open\"",
+    "H002:status normalized from \"待触发\" to \"open\"",
+    "H003:status normalized from \"待触发\" to \"open\"",
+    "H004:status normalized from \"待触发\" to \"open\"",
+    "H005:status normalized from \"待触发\" to \"open\"",
+    "H006:status normalized from \"待触发\" to \"open\"",
+    "H007:status normalized from \"待触发\" to \"open\"",
+    "H008:status normalized from \"待触发\" to \"open\"",
+    "H001:lastAdvancedChapter normalized from \"Ch1: 裴渡在焦糊味中闪回十二年前父亲帐篷被烧的场景；骨笛（父亲遗物）首次出场，老刘头问起时裴渡岔开话题但手攥紧了\" to 0",
+    "H002:lastAdvancedChapter normalized from \"Ch1: 无直接推进\" to 0",
+    "H003:lastAdvancedChapter normalized from \"Ch1: 裴渡挣到65枚铜钱，但货主多半不会来，通译任务泡汤，生存压力骤增；并州债主和母亲病情仍在等待\" to 0",
+    "H004:lastAdvancedChapter normalized from \"Ch1: 无直接推进\" to 0",
+    "H005:lastAdvancedChapter normalized from \"无\" to 0",
+    "H006:lastAdvancedChapter normalized from \"无\" to 0",
+    "H007:lastAdvancedChapter normalized from \"无\" to 0",
+    "H008:lastAdvancedChapter normalized from \"无\" to 0",
+    "H009:lastAdvancedChapter normalized from \"Ch1: 骨笛（匈奴父亲遗物）首次出场。老刘头指骨笛说“还带着这胡人玩意儿”，裴渡嘴角一抽，把骨笛往衣襟里掖了掖，编了个俏皮话搪塞过去，但手上的动作暴露了他的在意\" to 0",
+    "H010:lastAdvancedChapter normalized from \"Ch1: 阿苓在村口土墙边对裴渡说：“先来的是汉人官兵。后半夜又来了匈奴骑兵。我躲在谷仓听见，他们话不一样，但鞋底踩地声一样。”裴渡低头看地上踩碎的马蹄铁印——深而窄，汉军制式\" to 0"
+  ]
+}

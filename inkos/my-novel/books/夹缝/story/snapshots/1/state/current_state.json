@@ -1,0 +1,53 @@
+{
+  "chapter": 1,
+  "facts": [
+    {
+      "subject": "protagonist",
+      "predicate": "当前位置",
+      "object": "河东郡土塬（茅津渡北岸，被屠村落废墟附近土路）",
+      "validFromChapter": 1,
+      "validUntilChapter": null,
+      "sourceChapter": 1
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "主角状态",
+      "object": "裴渡：体力消耗（长途跋涉），心理受到冲击（目睹屠村后果、童年闪回），无外伤；通译任务泡汤，身无分文（仅有65枚铜钱），身边多了一个受伤的少年阿苓",
+      "validFromChapter": 1,
+      "validUntilChapter": null,
+      "sourceChapter": 1
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前目标",
+      "object": "把受伤的阿苓带到安全处，找寻下一份活计（原货主多半不会来，生存压力骤增）",
+      "validFromChapter": 1,
+      "validUntilChapter": null,
+      "sourceChapter": 1
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前限制",
+      "object": "带着一个受伤且对自己抱有戒心的汉人少年，行动受限；匈奴骑兵仍在附近巡查；身无分文，缺少食物和药品；汉匈混血身份使他处于两难境地",
+      "validFromChapter": 1,
+      "validUntilChapter": null,
+      "sourceChapter": 1
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前敌我",
+      "object": "潜在威胁：匈奴骑兵（已离开但仍在附近）、屠村事件背后的汉军与匈奴人勾结势力（未知）；当前无明确盟友（阿苓是负担而非盟友，羯人商队是临时同路）",
+      "validFromChapter": 1,
+      "validUntilChapter": null,
+      "sourceChapter": 1
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前冲突",
+      "object": "生存冲突：在乱世中带着一个累赘少年求生存；身份冲突：汉匈混血身份在胡汉裂痕中的生存困境；悬疑冲突：屠村事件背后汉军与匈奴人勾结的真相",
+      "validFromChapter": 1,
+      "validUntilChapter": null,
+      "sourceChapter": 1
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "hooks": [
+    {
+      "hookId": "hook-10",
+      "startChapter": 4,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第8-9章裴渡尝试进入城北营区时兑现",
+      "payoffTiming": "mid-arc",
+      "notes": "H010：屠村当晚两个羯人群体→从Ch5确认存在不同分支（铁弗部与非铁弗部），到Ch6马鞍线索暗示牙行涉及羯人部落，到Ch7乞里直接确认铁弗部骨赤真与非铁弗部守城门羯人“各管各的”、分区而治。兑现程度：从“二者可能有关联”推进至“二者明确分离且有缝隙”。"
+    },
+    {
+      "hookId": "hook-1",
+      "startChapter": 4,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第8-9章裴渡接活后通过行内信息点破",
+      "payoffTiming": "mid-arc",
+      "notes": "H001：刘曜签印与屠村当晚老羯人的关联——Ch7未直接推进（H001聚焦刘曜与老羯人的个人关联，本章未触及刘曜本人），本章回收H010（势力结构）而非H001（个人关联）。留至第8-9章裴渡进入城北或接触老羯人时再掀。"
+    },
+    {
+      "hookId": "hook-11",
+      "startChapter": 5,
+      "type": "前台/悬疑",
+      "status": "resolved",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "Ch7已兑现",
+      "payoffTiming": "near-term",
+      "notes": "H011：守卒记面孔→Ch7兑现。兑现程度：从守卒单方面记住面孔变为裴渡已经知道对方记住并传入行内。"
+    },
+    {
+      "hookId": "hook-12",
+      "startChapter": 3,
+      "type": "支线/关系",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第8章接活时回扣",
+      "notes": "S001：并州债主与母亲病情→Ch7推进为生存焦虑的持续后台压力站。裴渡脑内算账的频率随铜钱减少而增加（从Ch5的127文粗略估算→Ch7面对价目表精确列出刚需支出），债务倒计时压力升级。"
+    },
+    {
+      "hookId": "hook-13",
+      "startChapter": 4,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第8-9章裴渡见到对应羯人或确认被关者身份时回扣",
+      "payoffTiming": "mid-arc",
+      "notes": "H012：阿苓补充斡耳朵细节“一盏灯没灭”→从Ch6线索停留至Ch7间接推进（确认有活人被关在城北后院）。下一阶段：那盏灯与被关者是否同一人。"
+    },
+    {
+      "hookId": "hook-14",
+      "startChapter": 6,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第8-9章裴渡通过牙行渠道追踪屠村当晚老羯人时激活",
+      "payoffTiming": "near-term",
+      "notes": "H013：阿史那乞里的货源涉及羯人部落——Ch7未直接推进（本章焦点在斡耳朵信息而非货物渠道），偏房马鞍线索暂留背景。"
+    },
+    {
+      "hookId": "hook-16",
+      "startChapter": 5,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第9-10章与H025联合爆炸",
+      "payoffTiming": "mid-arc",
+      "notes": "H016：裴渡主动亮牌代价→Ch7推进：乞里将裴渡来访刻入木板记录在案（刻完后多余抬头看门外一眼暗示牙行有第三双耳朵），守卒注意→牙行注意→潜在的刘曜眼线注意，三重叠加。状态从pressured升级至pressured+。"
+    },
+    {
+      "hookId": "hook-17",
+      "startChapter": 5,
+      "type": "前台/悬疑/能力",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第10-12章阿苓独自行动时激活",
+      "payoffTiming": "mid-arc",
+      "notes": "H017：阿苓记形能力→Ch7推进至“主动空间定位”：首次将新获取的信息（城北）与已有记忆（告示位置）进行方向关联，暗示阿苓在脑子里画地图的能力升级。"
+    },
+    {
+      "hookId": "hook-25",
+      "startChapter": 7,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第9-10章与H016联合爆炸",
+      "payoffTiming": "near-term",
+      "notes": "H025新开：牙行记名——裴渡的通译身份被牙行正式记录在案，且记录过程被潜在眼线目击。本章不点破眼线身份，只通过乞里的多余动作暗示。"
+    },
+    {
+      "hookId": "hook-26",
+      "startChapter": 7,
+      "type": "前台/悬疑/能力",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第10-12章阿苓独自行动时激活",
+      "payoffTiming": "mid-arc",
+      "notes": "H026新开：阿苓记“城北”——将斡耳朵的位置信息与他已有的空间记忆（告示位置+用脚走过的路）整合，形成可独立导航的认知地图。为后续阿苓独自行动提供能力基础。"
+    },
+    {
+      "hookId": "hook-27",
+      "startChapter": 7,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第8章阿苓伤情处理或独处时展开",
+      "payoffTiming": "near-term",
+      "notes": "H027新开：阿苓创伤记忆触发——绳结成为连接屠村当晚视觉记忆（下马者马鞭）与当下环境（牙行短刀）的感官锚点。裴渡选择不追问意味着他在等阿苓自己开口。"
+    }
+  ]
+}

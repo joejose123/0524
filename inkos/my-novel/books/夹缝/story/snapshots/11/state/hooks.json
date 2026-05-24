@@ -1,0 +1,110 @@
+{
+  "hooks": [
+    {
+      "hookId": "hook-1",
+      "startChapter": 0,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第12-13章进营区/正面接触用药者身份时揭终端",
+      "payoffTiming": "mid-arc",
+      "notes": "物资链追踪从Ch10贺兰浑目击取药→Ch11确认第二落点及双通道，缺最后一步（终端用药者身份）和上游（商队→药铺）"
+    },
+    {
+      "hookId": "hook-2",
+      "startChapter": 0,
+      "type": "前台/悬疑/能力",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第12-13章裴渡需要第二条眼线时激活",
+      "payoffTiming": "immediate",
+      "notes": "窄巷路径已实战验证两次（Ch10踩线+Ch11任务执行），数据可靠性确认。阿苓空间能力全线升级"
+    },
+    {
+      "hookId": "hook-3",
+      "startChapter": 0,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "裴渡下次找乞里/接活时由守卒流民口传入触发",
+      "payoffTiming": "immediate",
+      "notes": "牙行记名压力持续，触发条件待后续满足"
+    },
+    {
+      "hookId": "hook-4",
+      "startChapter": 0,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第14-15章裴渡与贺兰浑首次正面遭遇",
+      "notes": "Ch11裴渡成功规避暴露，碾药人警觉但未确认发现。hook-4压力留存"
+    },
+    {
+      "hookId": "hook-5",
+      "startChapter": 0,
+      "type": "前台/悬疑/行动",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第12-13章裴渡需要铜符或探查暗沟时推进",
+      "payoffTiming": "immediate",
+      "notes": "正门仍要铜符，但暗沟作为替代选项已进入精算盘面"
+    },
+    {
+      "hookId": "hook-6",
+      "startChapter": 0,
+      "type": "前台/关系",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第12章再次分头行动时裴渡直接调用“阿苓独立执行值”",
+      "payoffTiming": "immediate",
+      "notes": "关系定音后首次实战检验通过——阿苓从需要兜底的人升级为独立情报源"
+    },
+    {
+      "hookId": "hook-7",
+      "startChapter": 0,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第12-13章揭示营区内人员格局时全面展开",
+      "notes": "营区人员格局从Ch8三道呼吸→Ch9贺兰浑弃奴出身→Ch11碾药人混相，每章新增一层"
+    },
+    {
+      "hookId": "hook-8",
+      "startChapter": 0,
+      "type": "前台/悬疑/能力",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "下一章分场任务分配时直接使用",
+      "payoffTiming": "immediate",
+      "notes": "阿苓已可独立完成中等风险路径情报收集"
+    },
+    {
+      "hookId": "hook-9",
+      "startChapter": 11,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第12-13章物资链终端或进营区时点破",
+      "payoffTiming": "mid-arc",
+      "notes": "新楔子——碾药人加工工序独立于东毡帐，暗示用药体系分层"
+    },
+    {
+      "hookId": "hook-10",
+      "startChapter": 11,
+      "type": "前台/悬疑/行动",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第12-13章裴渡决定是否钻暗沟时推进",
+      "notes": "新选项——绕开铜符通道的可能途径，但高盲区高风险"
+    },
+    {
+      "hookId": "hook-11",
+      "startChapter": 11,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第14-15章贺兰浑个人线展开时回收",
+      "notes": "第3号新问号——关联贺兰浑人设深度"
+    }
+  ]
+}

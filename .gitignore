@@ -22,9 +22,9 @@ autoresearch/
 .superpowers/
 _*.md
 
-# user runtime data
-.inkos/
-books/
-inkos.json
-prompt/
-CLAUDE.md
+# user runtime data (root only)
+/.inkos/
+/books/
+/inkos.json
+/prompt/
+/CLAUDE.md

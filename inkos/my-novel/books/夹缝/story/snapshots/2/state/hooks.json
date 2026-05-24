@@ -1,0 +1,104 @@
+{
+  "hooks": [
+    {
+      "hookId": "H003",
+      "startChapter": 0,
+      "type": "前台/生存",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "待定",
+      "payoffTiming": "near-term",
+      "notes": "母亲的病情和债务是裴渡行为的核心驱动力，加息消息增加了紧迫感"
+    },
+    {
+      "hookId": "H008",
+      "startChapter": 4,
+      "type": "前台/感情",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "永嘉之乱爆发前裴渡被三方围堵，活路不在任何一方",
+      "payoffTiming": "near-term",
+      "notes": "来自pending_hooks，本章未涉及"
+    },
+    {
+      "hookId": "H007",
+      "startChapter": 3,
+      "type": "后台/操控",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "裴渡的“夹缝”状态被某些人刻意维持，便于操控",
+      "payoffTiming": "mid-arc",
+      "notes": "来自pending_hooks，本章未涉及"
+    },
+    {
+      "hookId": "H006",
+      "startChapter": 2,
+      "type": "前台/叛徒",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "出卖裴渡藏身处的人只有三个知情者，其中一人不可疑",
+      "payoffTiming": "mid-arc",
+      "notes": "来自pending_hooks，本章未涉及"
+    },
+    {
+      "hookId": "H005",
+      "startChapter": 1,
+      "type": "前台/情报",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "加密手书的另一个被涂掉的收件人是谁",
+      "payoffTiming": "mid-arc",
+      "notes": "来自pending_hooks，本章未涉及"
+    },
+    {
+      "hookId": "H009",
+      "startChapter": 1,
+      "type": "前台/身世",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "骨笛的完整来历、它与裴渡父亲灭门当晚的关系",
+      "payoffTiming": "slow-burn",
+      "notes": "身份撕裂的物化符号，正文未提及，顺延至后续章节展开"
+    },
+    {
+      "hookId": "H010",
+      "startChapter": 1,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "汉军与匈奴人（及羯人）勾结屠村的幕后主使、目的和规模",
+      "payoffTiming": "mid-arc",
+      "notes": "悬疑升级，裴渡此刻无暇追查，后续需其他线索交叉验证（如H011）"
+    },
+    {
+      "hookId": "H011",
+      "startChapter": 2,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "“阿干”这个称呼在屠村背景下的具体含义、说话者身份及其与匈奴/汉军的关系",
+      "payoffTiming": "mid-arc",
+      "notes": "新开伏笔，为屠村谜团增加新的调查方向"
+    },
+    {
+      "hookId": "H001",
+      "startChapter": 0,
+      "type": "后台/身世",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "父亲灭门当晚有人故意放裴渡母子一条生路，此人身份与动机",
+      "payoffTiming": "slow-burn",
+      "notes": "骨笛是父亲身份的唯一物证，本章未涉及"
+    },
+    {
+      "hookId": "H002",
+      "startChapter": 0,
+      "type": "后台/身世",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "母亲逃亡时与并州家族达成的交易条件是什么",
+      "payoffTiming": "slow-burn",
+      "notes": "本章未涉及"
+    }
+  ]
+}

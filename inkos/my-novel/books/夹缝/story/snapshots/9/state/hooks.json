@@ -1,0 +1,123 @@
+{
+  "hooks": [
+    {
+      "hookId": "H028",
+      "startChapter": 8,
+      "type": "前台/悬疑",
+      "status": "resolved",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第10章裴渡再探后院或进一步追踪贺兰浑在骨赤真营区的具体角色时完全掀开",
+      "payoffTiming": "near-term",
+      "notes": "H028前半段兑现：裴渡确认此人是谁/在哪见过/为何嗓音刻脑。后半段保留：贺兰浑在骨赤真营区的角色（不是被关是勾连）+为什么出现在此地——章末裴渡心里长出“第三根刺：贺兰浑为何在此”，留待第10章"
+    },
+    {
+      "hookId": "H029",
+      "startChapter": 8,
+      "type": "前台/悬疑/能力",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第10-12章阿苓独自行动或裴渡需要第二条路时激活使用",
+      "payoffTiming": "mid-arc",
+      "notes": "H029从open推进至planted——裴渡已掌握路径信息但尚未在实战中使用。阿苓第一次主动向裴渡传递独立收集的情报，关系从“配合执行”升级为“主动贡献策略选项”"
+    },
+    {
+      "hookId": "H017",
+      "startChapter": 5,
+      "type": "前台/悬疑/能力",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第10-12章阿苓独自行动时进一步验证",
+      "payoffTiming": "mid-arc",
+      "notes": "从advanced++推进至practical_application——能力已可转化为他人可用的行动情报"
+    },
+    {
+      "hookId": "H013",
+      "startChapter": 6,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第10-12章裴渡进一步追踪物资线时激活",
+      "payoffTiming": "near-term",
+      "notes": "从defer转为advanced——本章通过药铺竹筐烙印+后堂喊话意外推进了物资线索。南来商队货物进东坊药铺，与牙行乞里偏房马鞍（南边羯人货）构成平行佐证，暗示并州城内有不止一条南边货物渠道"
+    },
+    {
+      "hookId": "H025",
+      "startChapter": 7,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第10章裴渡接活/再找乞里时触发",
+      "payoffTiming": "near-term",
+      "notes": "守卒今早换岗闲聊透露铁弗部城北清场抓人——这条消息若传到牙行，乞里可能联想到裴渡（昨晚刚注册通译就问城北营区的事），但Ch9本章不触发，留到第10章"
+    },
+    {
+      "hookId": "H026",
+      "startChapter": 7,
+      "type": "前台/悬疑/能力",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第10-12章阿苓独自行动时激活",
+      "payoffTiming": "mid-arc",
+      "notes": "保留以备后续升级——从“记城北位置”到“记窄巷特征”再到“口头精确复述”，空间定位能力在逐层丰富"
+    },
+    {
+      "hookId": "H027",
+      "startChapter": 7,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第10-12章阿苓独自面对骨赤真或再见到同类绳结时掀",
+      "payoffTiming": "mid-arc",
+      "notes": "侧面扫描完成——阿苓对疼痛的处理方式（抠→摊开→压回→不抽脚）可能暗示他对身体受制的反应模式，裴渡看到了但压住不追问，留待后续触发"
+    },
+    {
+      "hookId": "H016",
+      "startChapter": 5,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第10章可能触发（乞里收到消息/守卒注意到裴渡在东坊出现）",
+      "payoffTiming": "near-term",
+      "notes": "pressured++：守卒注意+牙行记录+城北清场升级+药铺公共场合露面——四层叠加。裴渡在药铺的反应控制（不在外人面前露反应）正是应对H016的精算行为"
+    },
+    {
+      "hookId": "H010",
+      "startChapter": 4,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第10-12章进一步揭示两个羯人群体的具体关系时推进",
+      "payoffTiming": "mid-arc",
+      "notes": "隐性推进：贺兰浑的出现让“铁弗部营区=单一羯人群体”的假设被打碎——后院至少有外来的弃奴出身者参与物资管理"
+    },
+    {
+      "hookId": "H030",
+      "startChapter": 9,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第10-12章物资线索进一步追踪时展开",
+      "payoffTiming": "near-term",
+      "notes": "为新开伏笔——为H013、H028的后续走向提供物资维度。与H013乞里马鞍（南边羯人货）构成平行线索，未来两条线可能交汇"
+    },
+    {
+      "hookId": "H001",
+      "startChapter": 4,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "待定",
+      "notes": "刘曜与老羯人个人关联——暂压"
+    },
+    {
+      "hookId": "H015",
+      "startChapter": 6,
+      "type": "前台/悬疑",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "第10章二次探查时进一步兑现",
+      "payoffTiming": "near-term",
+      "notes": "从Ch8“实地外围格局+活人间接证据”继续推进——贺兰浑的身份确认让后院的人员构成更加具体"
+    }
+  ]
+}
